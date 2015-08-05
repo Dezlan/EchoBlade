@@ -1,0 +1,11 @@
+photon / photon cloud:  #1b61a7; // blue
+chat:                   #ee7326; // orange
+turnbased:              #75b458; // green
+pun:                    #706f6e; // grey
+realtime:               #199fa5; // turquoise
+voice:                  #fbba00; // yellow
+
+server:                 #c80973; // pink
+
+exitgames:              #ef7d00 // eg orange
+			#575756 // eg grey
